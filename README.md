@@ -41,7 +41,7 @@ About Me:
 
 ---
 
-[website]: https://ballavamsi.com
+[website]: http://ballavamsi.com
 [twitter]: https://twitter.com/ballavamsi
 [instagram]: https://www.instagram.com/ballavamsi
 [linkedin]: https://www.linkedin.com/in/ballavamsi
