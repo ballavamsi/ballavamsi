@@ -5,10 +5,10 @@
 About Me:
 
 - 🔭 I’m currently working on open source projects in freetime, and ofcourse company projects. 
-- 🌱 I’m currently learning everything that I can.
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Tell me about your hidden tech talents.
-- 📫 How to reach me: ballavamsisrinivas@gmail.com
+- 📫 You can reach me : ballavamsisrinivas@gmail.com
 
 ### Connect with me:
 
