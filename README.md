@@ -7,7 +7,7 @@ About Me:
 - 🔭 I’m currently working on open source projects in freetime, and ofcourse company projects. 
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Tell me about your hidden tech talents.
+- 💬 I'm an Associate solution architect & full stack developer.
 - 📫 You can reach me : ballavamsisrinivas@gmail.com
 
 ### Connect with me:
